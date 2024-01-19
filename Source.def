@@ -1,0 +1,9 @@
+LIBRARY dllmain.dll
+
+EXPORTS
+PluginStart
+AccessVariable
+AccessSystemVariable
+AccessStringVariable
+AccessTrigger
+PluginFinalize
